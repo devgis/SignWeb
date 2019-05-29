@@ -1,0 +1,15 @@
+E:\Work\P2\Web\SignWeb\SignWeb.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Work\P2\Web\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.dll
+E:\Work\P2\Web\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.pdb
+E:\Work\P2\Web\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.dll
+E:\Work\P2\Web\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.pdb
+E:\Temp\P2\Web\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.dll
+E:\Temp\P2\Web\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.pdb
+E:\Temp\P2\Web\SignWeb\SignWeb.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\P2\Web\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.dll
+E:\Temp\P2\Web\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.pdb
+E:\Temp\P2\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.dll
+E:\Temp\P2\SignWeb\SignWeb.Common\bin\Debug\SignWeb.Common.pdb
+E:\Temp\P2\SignWeb\SignWeb.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\Temp\P2\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.dll
+E:\Temp\P2\SignWeb\SignWeb.Common\obj\Debug\SignWeb.Common.pdb
